@@ -2,4 +2,4 @@ Microsoft Visual Studio 2019'da Microsoft SQL Server Management Studio ile verit
 Veritabanındaki kayıtların listelenmesi.
 Veritabanına kayıt ekleme.
 Veritabanından kayıt silme.
-Veritabanında kayıt güncelleme.
+Veritabanında kayıt güncelleme..
